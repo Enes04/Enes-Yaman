@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Unity Game Projects.**
 
-- 👨‍💻 All of my projects are available at ([https://bit.ly/gamesyoutube](https://youtube.com/playlist?list=PLl0sl2s4aVwRxszFUpH9ceesmQsZvkxy8&si=NCApWdnUnjX8VmF7))
+- 👨‍💻 All of my projects are available at [https://bit.ly/gamesyoutube](https://youtube.com/playlist?list=PLl0sl2s4aVwRxszFUpH9ceesmQsZvkxy8&si=NCApWdnUnjX8VmF7)
 
 - 💬 Ask me about **Unity,C#.**
 
 - 📫 How to reach me **enesyaman04@gmail.com**
 
-- 📄 Know about my experiences [linktr.ee/EnesYamanDev](https://linktr.ee/EnesYamanDev))
+- 📄 Know about my experiences [linktr.ee/EnesYamanDev](https://linktr.ee/EnesYamanDev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
