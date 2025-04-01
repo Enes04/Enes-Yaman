@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enesyaman04@gmail.com**
 
-- 📄 Know about my experiences ([linktr.ee/EnesYamanDev]([https://linktr.ee/ozanvolkan](https://linktr.ee/EnesYamanDev))
+- 📄 Know about my experiences [linktr.ee/EnesYamanDev](https://linktr.ee/EnesYamanDev))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
